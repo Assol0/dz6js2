@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "title": "rrr",
+      "price": "333",
+      "memory": "333",
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/IPhone%2013/Pro/1-500x500.jpg",
+      "category": "",
+      "id": 1
+    },
+    {
+      "title": "asss",
+      "price": "12212",
+      "memory": "212",
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/IPhone%2013/Pro/1-500x500.jpg",
+      "category": "",
+      "id": 2
+    }
+  ]
+}
